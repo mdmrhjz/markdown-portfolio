@@ -1,1 +1,19 @@
-Replace this with a list of your favorite things.
+- [ ] Introduction to GitHub
+  - Assign someone to something.
+  - Enable GitHub Pages.
+  - Create new branches.
+  - Make commits and changes.
+  - Make pull requests.
+  - Merge pull requests.
+- [ ] Introduction to HTML
+  - Head and body tags.
+  - Add title tag.
+  - Add links.
+  - Add images.
+  - Create a list (ordered & unordered).
+- [ ] Introduction to Markdown
+  - Make list.
+  - Add h1, h2.....h6 headers.
+  - Add links.
+  - Add images.
+  - Write with formatted text.
